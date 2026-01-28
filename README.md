@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Aayan Shahzada
+# Hi there! 👋 I'm Shahzada Ayan
 
 **Business Analytics & Data Science | Web Developer | Data-Driven Problem Solver**
 
-Welcome to my GitHub! I'm a passionate business analytics and data science student at the University of the Pacific with a 3.85 GPA, dedicated to transforming data into actionable insights and building scalable solutions.
+Welcome to my GitHub! I'm a passionate Business Analytics and Data Science student at the University of the Pacific with a 3.85 GPA, dedicated to transforming data into actionable insights and building scalable solutions.
 
 ## 🎯 About Me
 
@@ -128,6 +128,74 @@ GPA: 3.85/4.0
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzadaayan1&theme=radical&show_icons=true)
+
+---
+
+## 📚 Current Coursework
+
+### DATA-053: Applications of Data Science (Spring 2026)
+**University of the Pacific** | January – May 2026
+
+#### Course Overview
+An applications-focused data science course emphasizing practical application of data science concepts using real datasets and industry-relevant scenarios, progressing from statistical foundations through regression to advanced machine learning with neural networks.
+
+#### Main Learning Modules
+
+**1. Getting Started**
+- Python and Jupyter Notebook fundamentals
+- Anaconda environment setup
+- Google Colab introduction and cloud-based development
+- Git and GitHub version control
+
+**2. Statistical Foundations (DATA 51 Review)**
+- Estimation and hypothesis testing fundamentals
+- Sampling distributions and estimation methods
+- Working with statistical data and populations
+
+**3. Real-World Case Studies & Exercises**
+- **Hilltop Coffee Case Study**: Hypothesis testing application investigating whether Hilltop Coffee is selling underweight cans; FDA compliance analysis
+- **A/B Testing Exercise**: Experimental design and comparison testing with large datasets (ab_data.csv - 15.9 MB)
+- **Simple Regression Exercise**: Linear regression modeling and relationship analysis
+- **Bank Campaign Analysis**: Customer segmentation and campaign effectiveness measurement
+
+**4. Model Validation (Chapters 8.1-8.3)**
+- Understanding overfitting and underfitting
+- Model performance evaluation techniques
+- Cross-validation methods
+- Nonlinear relationship detection
+- Housing price prediction with West Roxbury dataset
+
+**5. Machine Learning & Neural Networks**
+- Deep learning with Keras and TensorFlow
+- Convolutional Neural Networks (CNNs)
+- MNIST digit recognition project
+- Image classification fundamentals
+
+**6. Advanced Topics**
+- Multiple regression modeling (50 Startups dataset)
+- Nonlinear modeling approaches
+- Real estate valuation (West Roxbury, pie_crab datasets)
+- Expected Annual Income (EAI) estimation with large sample analysis
+
+#### Technical Tools & Languages
+- **Languages**: Python
+- **Development Environments**: Jupyter Notebooks, Google Colab
+- **Deep Learning**: Keras/TensorFlow
+- **Data Formats**: CSV files, JSON, Python notebooks
+
+#### Key Datasets
+- Hilltop Coffee quality control data
+- A/B testing experiments
+- Bank marketing campaigns
+- Housing/real estate data (West Roxbury)
+- Startup financials (50 Startups)
+- MNIST handwritten digits
+
+#### Assessment
+- Model Validation assignment (8.1-8.3) due Jan 30
+- Exercises embedded throughout modules (A/B testing, regression, case studies)
+- Practical coding assignments in Jupyter notebooks
+- Real-world data analysis projects
 
 ---
 
