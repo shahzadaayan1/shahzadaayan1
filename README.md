@@ -102,7 +102,8 @@ Machine Learning (Scikit-learn, Keras, NumPy, Pandas, Neural Networks)
 
 ## 🎓 Education
 
-**Bachelor of Science in Business Analytics**  
+**Bachelor of Science in Business Analytics** 
+Minor in Data Science
 University of the Pacific, Stockton, CA  
 Expected Graduation: May 2026  
 GPA: 3.85/4.0
@@ -119,10 +120,9 @@ GPA: 3.85/4.0
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aayan-shahzada)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/aayan_shahzada)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/aayan.shahzada)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://shahzadaayan.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahzada-ayan-analyst/)    
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/ayansadozai_9)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://shahzadaayan.com)  
 
 ---
 
