@@ -13,7 +13,7 @@ I specialize in:
 - **Workforce Analytics**: AI impact analysis, labor market research, automation risk assessment
 
 📍 **Location**: Stockton, California  
-🌐 **Portfolio:** [shahzadaayan.com](https://shahzadaayan.com)
+🌐 **Portfolio:** [shahzadaayan.com](https://shahzadaayan.com)  
 📧 **Email**: shahzadaayank1@gmail.com  
 ☎️ **Phone**: 209-778-0475
 
