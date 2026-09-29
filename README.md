@@ -1,137 +1,150 @@
-# Hi there! 👋 I'm Shahzada Ayan
+# Shahzada Ayan
 
-**Business Analytics & Data Science | Web Developer | Data-Driven Problem Solver**
+The kind of problem that shouldn’t happen twice.
 
-Welcome to my GitHub! I'm a passionate Business Analytics and Data Science student at the University of the Pacific with a 3.85 GPA, dedicated to transforming data into actionable insights and building scalable solutions.
+[shahzadaayan.com](https://shahzadaayan.com) · [linkedin.com/in/shahzadaayan](https://linkedin.com/in/shahzadaayan) · [shahzadaayank1@gmail.com](mailto:shahzadaayank1@gmail.com)
 
-## 🎯 About Me
+## Now
 
-I specialize in:
-- **Data Analytics & Visualization**: Power BI, SQL, Python, Tableau
-- **Web Development**: HTML/CSS, AWS (S3, CloudFront, Route 53)
-- **Business Intelligence**: ETL processes, data modeling, strategic consulting
-- **Workforce Analytics**: AI impact analysis, labor market research, automation risk assessment
+**Studying**  
+B.S. Business Analytics, University of the Pacific  
+Expected December 2027
 
-📍 **Location**: Stockton, California  
-🌐 **Portfolio**: [https://shahzadaayan.com](http://shahzadaayan.com/)
-📧 **Email**: shahzadaayank1@gmail.com  
-☎️ **Phone**: 209-778-0475
+**Looking for**  
+Internships for Summer 2027  
+Based in Stockton, CA. Open to On-site, Hybrid, Remote work.
 
----
+**Roles**  
+Applied AI Engineering, Data Engineering, Analytics and BI, and Responsible AI.  
+Open to founding engineer roles at early-stage companies.
 
-## 💼 Professional Experience
+## Experience
+
+### Founder
+
+**Fraqt** · June 2026 to present
+
+AI compliance and operations software for university international student offices, and the F-1 students they serve.
+
+Two university offices engaged | Pre-revenue, pre-incorporation
+
+1,194 government source passages, live · 715 automated tests · 6 weeks to production
+
+The repository is private because it handles immigration documents. [fraqt.org](https://fraqt.org)
+
+[shahzadaayan.com/work/fraqt](https://shahzadaayan.com/work/fraqt)
+
+### Analytics Consultant
+
+**Pacific Consulting** · Stockton, CA · January to May 2024
+
+Customer segmentation, A/B test evaluation and Power BI dashboards for a coffee company, with an entity-relationship model behind them.
+
+University student consulting practice | Unpaid, for academic credit
 
 ### Summer Conference Assistant
-**University of the Pacific** | May 2024 – Aug 2024
-- Developed and led streamlined data collection for event logistics, coordinating with cross-functional teams for 3,000+ attendees
-- Achieved **15% reduction** in check-in times and improved room readiness
-- Created data-driven dashboards displaying attendee satisfaction, diversity, and engagement metrics
-- Presented insights to Board of Regents, potential investors, and prospective students
+
+**University of the Pacific** · Stockton, CA · May to August 2024
+
+An end-to-end data collection pipeline, and executive KPI dashboards on satisfaction, diversity and engagement presented to the Board of Regents.
+
+3,000+ attendees served
 
 ### Marketing Analyst Intern
-**Dagwood Sandwiches** | May 2023 – Aug 2023
-- Led team of 6 in digitizing 10K customer records using Excel and SQL
-- Performed customer segmentation with Python, driving **25% increase** in campaign effectiveness
-- Boosted engagement by **30%** through data-driven targeting
-- Developed Power BI dashboards and ERD models for marketing KPI visualization
-- Optimized resource allocation and reduced campaign costs by **10%**
 
----
+**Dagwood Sandwiches** · Lahore, Pakistan · May to August 2023
 
-## 🚀 Key Projects
+Led a team digitizing customer records, with segmentation in Python and Power BI dashboards for marketing KPIs.
 
-### Portfolio Platform Developer (Ongoing)
-**Technologies**: HTML/CSS, AWS S3, CloudFront, Route 53
-- Developed scalable web portfolio platform helping students and professionals showcase projects
-- Implemented responsive design ensuring 99.9% uptime
-- Utilized AWS CDN for optimal content delivery
+10K+ customer records · Team of six
 
-### AI Impact on Job Market Dashboard
-**Technologies**: Power BI, Power Query, DAX  
-**Timeline**: Oct 2025 – Dec 2025
-- Engineered analytics dashboard evaluating AI's impact on 152K job postings
-- Delivered workforce KPIs: automation risk, growth trajectory, salary benchmarking
-- Cleaned and modeled labor market datasets using Power Query
-- Built DAX measures for predictive forecasting and job trend analysis by education, industry, and geography
+## Research
+
+### Bridging the AI Skills Gap
+
+Sole author · February 2026
+
+A survey of business journal editors on graduate preparedness, AI adoption, and governance.
+
+Submitted to the American Journal of Undergraduate Research
+
+170 complete responses · 1,021 editorial board members in the frame · 22 item instrument
+
+[shahzadaayan.com/work/research](https://shahzadaayan.com/work/research)
+
+## Projects
+
+### Telecom Churn Prediction
+
+Python, scikit-learn, pandas · April 2026
+
+Four classification models compared, and a weekly risk-scoring recommendation that came out of the comparison.
+
+7,043 customers · 4 models compared · 46 dimensions after one-hot encoding
+
+[shahzadaayan.com/work/telecom-churn](https://shahzadaayan.com/work/telecom-churn)
+
+### Diamond Price Drivers
+
+Python, Excel · Spring 2026
+
+Which published grade moves the price of a pear-shaped diamond more, clarity or colour. The answer depends on the basis you ask it on.
+
+918 stones collected · 4 retailers · 0.633 combined R², individual stones
+
+[shahzadaayan.com/work/diamond-price-drivers](https://shahzadaayan.com/work/diamond-price-drivers)
+
+### AI Impact on the Job Market
+
+Power BI, DAX, Power Query · October 2025
+
+A Power BI dashboard built to make automation risk, projected openings and pay comparable across education levels and industries.
+
+30,000 roles in the dataset · 8 countries · 13 columns per role
+
+[shahzadaayan.com/work/job-market-dashboard](https://shahzadaayan.com/work/job-market-dashboard)
 
 ### Ion Thruster Output Visualization
-**Technologies**: Power BI, Power Query, Excel
-- Digitized experimental thruster data and created relational models with SQL ERDs
-- Applied Python/Power Query analytics to extract propulsion KPIs and efficiency trends
-- Visualized real-time performance metrics supporting engineering optimization
 
-### Nike Sales Analytics Dashboard
-**Technologies**: Power BI, Python, Power Query, DAX  
-**Timeline**: Aug 2025 – Oct 2025
-- Normalized sales dataset and built relational models with DAX
-- Calculated profitability metrics and visualized strategic KPIs
-- Enabled self-service analytics through interactive slicers
-- Uncovered product trends through Python-based exploratory analysis
+Power BI, Excel, SQL, Python · September 2025
 
-### Groundstack Coffee Analytics
-**Technologies**: Python, Power BI  
-**Timeline**: Jan 2024 – Apr 2024
-- Led competitor analysis with ERD data modeling and A/B testing
-- Delivered consulting strategies improving targeting by **15%**
-- Increased conversion rates by **12%**
+Digitizing the output of more than 240 thruster tests into one structured set.
 
----
+240+ tests digitized
 
-## 🛠️ Technical Skills
+[shahzadaayan.com/work/ion-thruster](https://shahzadaayan.com/work/ion-thruster)
 
-### Languages
-- Python | SQL | R | HTML/CSS | LaTeX
+### Nike-Themed Sales Analytics
 
-### Data Tools & Platforms
-- **Analytics**: **Analytics**: Power BI, SQL Server Management Studio, Excel, Tableau, JMP, MSP, Jupyter Notebooks, Scikit-learn
-- **Cloud**: AWS (S3, CloudFront, Route 53)
-- **Development**: PyCharm, Lucidchart
-- **Visualization**: Power BI, Tableau, Python (Pandas, NumPy)
+SQL, Python, Power BI, DAX · August 2024
 
-### Core Competencies
-- Database Management & Design
-- SQL Query Optimization
-- Entity-Relationship Diagram (ERD) Development
-- Statistical Analysis & Consulting
-Machine Learning (Scikit-learn, Keras, NumPy, Pandas, Neural Networks)
-- Data Wrangling & Modeling
-- Exploratory Data Analysis (EDA)
-- Data-Driven Strategy & Leadership
+A relational model and a set of DAX measures over a course dataset, so a new question does not need a new extract.
 
----
+Course project on a Nike-themed dataset, not Nike’s data
 
-## 🎓 Education
+[shahzadaayan.com/work/nike-sales-analytics](https://shahzadaayan.com/work/nike-sales-analytics)
 
-**Bachelor of Science in Business Analytics** 
-Minor in Data Science
-University of the Pacific, Stockton, CA  
-Expected Graduation: May 2026  
-GPA: 3.85/4.0
+## Toolkit
 
----
+**Languages and databases**  
+Python, SQL, TypeScript, PostgreSQL
 
-## 🎤 Speaking & Leadership
+**AI and machine learning**  
+scikit-learn
 
-- **Guest Speaker**: AI in Analytics at Modesto Junior College
-- Project lead experience managing cross-functional teams
-- Consulting expertise in business strategy optimization
+**Data and analytics**  
+Power BI, DAX, Power Query, JMP Pro, Excel
 
----
+**Engineering**  
+Next.js, React, AWS, Git
 
-## 🌐 Let's Connect!
+### Also
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shahzada-ayan-analyst/)    
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/ayansadozai_9)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://shahzadaayan.com)  
+**AI and machine learning**  
+LLM application design, Retrieval-augmented generation, Vector search, Embeddings, Prompt engineering, Grounding and refusal design, AI guardrails, LLM evaluation, Classification, Regression
 
----
+**Data and analytics**  
+ETL pipelines, Data modeling, ERD design, Dashboards, KPI reporting, A/B testing, Customer segmentation, Survey methodology, Statistical analysis, Data validation
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzadaayan1&theme=radical&show_icons=true)
-
----
-
----
-
-*Always learning, always growing. Feel free to reach out for collaboration on data analytics, business intelligence, or web development projects!*
+**Engineering**  
+OCR, Multi-tenant architecture, Application and database security, Automated testing, PII handling
