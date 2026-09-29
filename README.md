@@ -147,4 +147,4 @@ LLM application design, Retrieval-augmented generation, Vector search, Embedding
 ETL pipelines, Data modeling, ERD design, Dashboards, KPI reporting, A/B testing, Customer segmentation, Survey methodology, Statistical analysis, Data validation
 
 **Engineering**  
-OCR, Multi-tenant architecture, Application and database security, Automated testing, PII handling
+REST APIs, Data governance, OCR, Multi-tenant architecture, Application and database security, Automated testing, PII handling
