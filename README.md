@@ -2,7 +2,7 @@
 
 The kind of problem that shouldn’t happen twice.
 
-[shahzadaayan.com](https://shahzadaayan.com) · [linkedin.com/in/shahzadaayan](https://linkedin.com/in/shahzadaayan) · [shahzadaayank1@gmail.com](mailto:shahzadaayank1@gmail.com)
+[shahzadaayan.com](https://shahzadaayan.com) · [linkedin.com/in/shahzadaayan](https://linkedin.com/in/shahzadaayan) · [shahzadaayank1@gmail.com](mailto:shahzadaayank1@gmail.com) · [Resume](https://shahzadaayan.com/Shahzada_Ayan_Resume.pdf)
 
 ## Now
 
