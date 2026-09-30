@@ -12,10 +12,10 @@ Expected December 2027
 
 **Looking for**  
 Internships for Summer 2027  
-Based in Stockton, CA. Open to On-site, Hybrid, Remote work.
+Based in Stockton, CA. Open to on-site, hybrid or remote work, and to relocation.
 
 **Roles**  
-Applied AI Engineering, Data Engineering, Analytics and BI, and Responsible AI.  
+Applied AI engineering, data engineering, analytics and BI, and responsible AI.  
 Open to founding engineer roles at early-stage companies.
 
 ## Experience
