@@ -62,7 +62,7 @@ Led a team digitizing customer records, with segmentation in Python and Power BI
 
 ### Bridging the AI Skills Gap
 
-Sole author · February 2026
+Sole author · February to May 2026
 
 A survey of business journal editors on graduate preparedness, AI adoption, and governance.
 
@@ -96,7 +96,7 @@ Which published grade moves the price of a pear-shaped diamond more, clarity or 
 
 ### AI Impact on the Job Market
 
-Power BI, DAX, Power Query · October 2025
+Power BI, DAX, Power Query · October to December 2025
 
 A Power BI dashboard built to make automation risk, projected openings and pay comparable across education levels and industries.
 
@@ -116,7 +116,7 @@ Digitizing the output of more than 240 thruster tests into one structured set.
 
 ### Nike-Themed Sales Analytics
 
-SQL, Python, Power BI, DAX · August 2024
+SQL, Python, Power BI, DAX, Power Query · August to September 2025
 
 A relational model and a set of DAX measures over a course dataset, so a new question does not need a new extract.
 
